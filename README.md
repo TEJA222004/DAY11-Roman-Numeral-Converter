@@ -25,3 +25,4 @@ This is a simple Roman Numeral Converter web application built using HTML, CSS, 
 - **JavaScript**: Core logic for converting Arabic numbers to Roman numerals.
 
 ## Screenshot
+<img src="https://github.com/user-attachments/assets/e5b29c86-c146-4d9e-ac66-288b35138bb7" width="700px">
